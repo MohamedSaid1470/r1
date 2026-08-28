@@ -2,3 +2,4 @@ first line in r1test.txt
 sec line in r1test.txt
 third line in r1test.txt
 fourth line added
+5th line added
